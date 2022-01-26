@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, World! 👋
 
-<!--
-**theonovaes13/theonovaes13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Theo, I'm a software engineer mainly focused on Ruby on Rails at the moment.
 
-Here are some ideas to get you started:
+My interests, besides webdev, are skateboarding, practicing judo and going on *fast* bike rides.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also try to develop some games in my spare time, but since my spare time has been so little, there's almost a year I dont write a single line in a game. (written in jan/2022)
+
+Fun fact: In one of my endeavors, I actually ran over a car (since I was the one that was moving, and it was the one that was stationary). This little oopsie got me 16 stitches on the face and 8 on the wrist, since I literally went full superman through the windshield. Guys, seriously, use helmets.
+
+Welcome, and remember to be good.
+
+**RESPECT LGBTQIA+ RIGHTS.**
+
+**BLACK LIVES MATTER.**
+
+"***In each individual, there's an universe.***"
