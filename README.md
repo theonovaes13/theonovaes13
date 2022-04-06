@@ -14,4 +14,4 @@ Welcome, and remember to be good.
 
 **BLACK LIVES MATTER.**
 
-"***In each individual, there's an universe.***"
+"***In each individual, there's a universe.***"
