@@ -16,4 +16,4 @@ Welcome, and remember to be good.
 
 "***In each individual, there's a universe.***"
 
-[![Theonovaes13's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonovaes13)](https://github.com/anuraghazra/github-readme-stats)
+[![Theonovaes13's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonovaes13&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
