@@ -12,6 +12,4 @@ Welcome, and remember to be good.
 
 **BLACK LIVES MATTER.**
 
-"***In each individual, there's a universe.***"
-
-[![Theonovaes13's GitHub stats](https://github-readme-stats.vercel.app/api?username=theonovaes13&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+"***In each individual resides an universe.***"
